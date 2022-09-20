@@ -1,19 +1,24 @@
 !bing search engine ads
-.b_poleContent > #ifeu
-.ra_car_block
-.ad_sc
-.adsMvC
-.b_ad > .b_adBottom
-.b_ad > .b_adTop
-.pa_carousel_mlo
-.pa_carousel_ml
-.pa_sb
-.productAd
-[id$=\"adsMvCarousel\"]
-#b_results > li[style]:not([class])
-.ins_exp.tds
-.ins_exp.vsp
-.rebates_softlandingcontainer_collapse
+bing.com## .b_poleContent > #ifeu
+bing.com## .ra_car_block
+bing.com## .ad_sc
+bing.com## .adsMvC
+bing.com## .sb_add
+bing.com## .b_ad
+bing.com## div.sb_add
+bing.com## .b_ad > .b_adBottom
+bing.com## .b_ad > .b_adTop
+bing.com## .pa_carousel_mlo
+bing.com## .pa_carousel_ml
+bing.com## .pa_sb
+bing.com## .productAd
+bing.com## [id$=\"adsMvCarousel\"]
+bing.com## #b_results > li[style]:not([class])
+bing.com## .ins_exp.tds
+bing.com## .ins_exp.vsp
+bing.com## .rebates_softlandingcontainer_collapse
+
+
 
 !google-search
 google.com## #tadsc
